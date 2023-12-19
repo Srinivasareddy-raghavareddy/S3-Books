@@ -42,7 +42,8 @@ Flexible Adaptation
 
 # Azure AI Service
   **Azure ChatBot**:The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
-  
+  ![Screenshot (17)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/e0f6a27e-fbde-4d53-b504-d8b6f49bd077)
+
 # ScreenShots
 **Azure Static Website**:
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
@@ -53,6 +54,21 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 ![Screenshot (16)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/75605631-7431-43f0-acca-1668bb44fd40)
 
 # Working Live Project Dislay
+# Home page
+![Screenshot (18)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/56437efe-7703-4553-95d7-60ecf6766c69)
+# About page
+![Screenshot (19)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/6e6cc2d8-be53-4100-bfe6-841e14a2bbb8)
+# Chapters
+![Screenshot (20)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/29496336-01ff-4bab-ae0c-7fd1da310e14)
+# Author
+![Screenshot (21)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/d90ebeb1-268f-4d73-ab5c-3013d1dab48c)
+# Pricing
+![Screenshot (22)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/88f4c727-ea36-4fa2-9c45-78a627a0e338)
+# Contact Page
+![Screenshot (23)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/60bc8ffd-1485-4106-80a2-94ed6d772a58)
+# ChatBot
+![Screenshot (24)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/13f49069-3cdf-4734-b30d-d9c8a5ae083f)
+
 **Description**
 Here I am attaching the final working website's screenshot for the reference.
 # Final Project Statement
