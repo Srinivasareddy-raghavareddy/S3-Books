@@ -17,10 +17,14 @@ that are easy to implement and integrate seamlessly into daily routines. Through
 feedback mechanisms, the project seeks to evolve and adapt its solutions to meet the dynamic needs of users, ultimately 
 contributing to a more efficient and fulfilling daily experience.
 # Key features
-Focus on Users<b>
-Practical Solutions<b>
-Seamless Integration<b>
-Continuous Feedback<b>
+Focus on Users
+
+Practical Solutions
+
+Seamless Integration
+
+Continuous Feedback
+
 Flexible Adaptation
 # Core Azure Services
    **Azure Blob Storage** Azure Blob Storage:**Azure Blob Storage is a cloud-based storage service provided by Microsoft Azure. It allows you to store vast amounts of unstructured data, including documents, images, videos, logs, and backups. Blob Storage offers scalability, enabling the storage of large volumes of data while providing options for redundancy across regions or data centers, ensuring data durability and high availability. It includes features for access control, allowing you to manage permissions using shared access signatures (SAS) and Azure AD integration.
