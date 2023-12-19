@@ -1,9 +1,12 @@
 # S3 BOOKS
 A plotform for solve your daily problems.
 # Project Details
-Project Demo URL : 
-Demo Video URL : 
-Github Repository URL : 
+Project Demo URL :
+
+Demo Video URL :
+
+Github Repository URL :
+
 Industry : Lifestyle and Technology
 # Azure Services Used
   1. Azure Blob storage
