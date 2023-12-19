@@ -31,20 +31,27 @@ Continuous Feedback
 Flexible Adaptation
 # Core Azure Services
    **Azure Blob Storage**:Azure Blob Storage is a cloud-based storage service provided by Microsoft Azure. It allows you to store vast amounts of unstructured data, including documents, images, videos, logs, and backups. Blob Storage offers scalability, enabling the storage of large volumes of data while providing options for redundancy across regions or data centers, ensuring data durability and high availability. It includes features for access control, allowing you to manage permissions using shared access signatures (SAS) and Azure AD integration.
-   
+   ![Screenshot (13)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/0c2169d8-fd1a-40a9-a35d-c699d4587f09)
+
    **Azure Storage Account**: Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.
+![Screenshot (12)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/61eadddc-7016-47f6-b4fd-6398a496c2bb)
+![Screenshot (11)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/b03c68a3-988e-4592-b1fb-e86f095042fc)
 
  **Azure Backup service**: Azure Backup is a comprehensive cloud-based solution offered by Microsoft, enabling seamless protection for your data across various environments. It allows you to safeguard your critical workloads, applications, and files in on-premises, hybrid, and cloud setups. With its flexible and scalable features, Azure Backup ensures data integrity, compliance, and easy recovery, providing peace of mind for businesses of all sizes. The service supports a wide array of data sources, including virtual machines, databases, and files, while offering centralized management and robust security measures to safeguard your information against potential threats or loss.  
-   
+   ![Screenshot (14)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/6e509ffd-1da0-4115-9015-80754df71d76)
+
 # Azure AI Service
   **Azure ChatBot**:The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
   
 # ScreenShots
 **Azure Static Website**:
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
+![Screenshot (15)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/09a1ba88-b68f-450f-b2c9-e7bf5ed19830)
 
 **Azure ChatBot**:
 The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability. 
+![Screenshot (16)](https://github.com/Srinivasareddy-raghavareddy/S3-Books/assets/152017736/75605631-7431-43f0-acca-1668bb44fd40)
+
 # Working Live Project Dislay
 **Description**
 Here I am attaching the final working website's screenshot for the reference.
