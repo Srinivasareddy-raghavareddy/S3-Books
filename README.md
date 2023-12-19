@@ -50,21 +50,3 @@ Here I am attaching the final working website's screenshot for the reference.
 # Final Project Statement
 The primary objective of Evergreen Solutions is to streamline and simplify the complexities often associated with routine tasks and challenges. By conducting thorough research and utilizing user-centric design principles, we aim to develop practical tools, applications, and strategies that cater to the diverse needs of individuals in their day-to-day lives.
 
-# Desktop view
-![Screenshot (1)](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/fe4d2bc3-b4c0-4159-80db-9fa749c1ea86)
-![Screenshot (2)](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/9e2bfe2f-6b01-44d5-823a-13fee5c99240)
-![Screenshot (3)](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/a40e223c-ba49-4715-b46b-5cc9c4ac206b)
-![Screenshot (4)](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/7bc2f3b1-49d6-423c-8dad-70152a4ecbd6)
-![Screenshot (5)](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/ac50298c-2323-4ca2-9765-9bf8b67dafa6)
-![Screenshot (6)](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/e47b1b10-d7c2-49a8-bb53-4b0ecf61e180)
-![Screenshot (7)](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/85485a43-c777-48c2-bdc0-c942e4d79b20)
-![Screenshot (8)](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/12f5b64b-b7d7-443b-bc08-bd66c4132225)
-![Screenshot (9)](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/1febf8bc-7b1b-461e-89de-f45779d505dd)
-
-# Mobile view
-![WhatsApp Image 2023-12-13 at 8 52 47 PM](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/651969b4-ebe5-4962-8c4f-5b97a74de74d)
-![WhatsApp Image 2023-12-13 at 8 52 47 PM (1)](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/3b14ce12-7a86-42dd-956c-5927d458027a)
-![WhatsApp Image 2023-12-13 at 8 52 48 PM](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/bf37d131-ee24-4b3d-9df0-277df55dfbbe)
-![WhatsApp Image 2023-12-13 at 8 52 48 PM (1)](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/5755dcff-4fc3-486f-8539-bd1e4c2dc294)
-![WhatsApp Image 2023-12-13 at 8 52 48 PM (2)](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/0a83462b-2eac-439e-be94-ea206386a947)
-![WhatsApp Image 2023-12-13 at 8 52 49 PM](https://github.com/Srinivasareddy-raghavareddy/Srinivasareddy-raghavareddy/assets/152017736/f73c863a-057a-4845-b269-a47e503d6ec5)
