@@ -1,11 +1,11 @@
 # S3 BOOKS
 A plotform for solve your daily problems.
 # Project Details
+Github Repository URL :https://github.com/Srinivasareddy-raghavareddy/S3-Books
+
 Project Demo URL :https://s3books1.z13.web.core.windows.net/#nav-header
 
-Demo Video URL :
-
-Github Repository URL :https://github.com/Srinivasareddy-raghavareddy/S3-Books
+Demo Video URL :https://youtu.be/5DT3I90nvfQ
 
 Industry : Lifestyle and Technology
 # Azure Services Used
