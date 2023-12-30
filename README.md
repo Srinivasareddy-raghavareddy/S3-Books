@@ -1,5 +1,5 @@
 # S3 BOOKS
-A platform for solve your daily problems.
+A platform to solve your daily life problems.
 # Project Details
 Github Repository URL :https://github.com/Srinivasareddy-raghavareddy/S3-Books
 
