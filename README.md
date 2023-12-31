@@ -1,5 +1,11 @@
 # S3 BOOKS
 A platform to solve your daily life problems.
+# Roles/Responsibilities
+1.Srinivasa Reddy- Web Development and Administration
+2.Anush- Azure AI Services
+3.Hemanth- Deployment
+4.Sangamesh- Content Collection and Debugging 
+
 # Project Details
 Github Repository URL :https://github.com/Srinivasareddy-raghavareddy/S3-Books
 
