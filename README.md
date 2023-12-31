@@ -16,7 +16,7 @@ Project Demo URL :https://s3books1.z13.web.core.windows.net/#nav-header
 
 Demo Video URL :https://youtu.be/5DT3I90nvfQ
 
-Industry : Lifestyle and Technology
+Industry : Education
 # Azure Services Used
   1. Azure Blob storage
   2. Storage Account
