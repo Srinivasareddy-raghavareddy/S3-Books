@@ -28,7 +28,7 @@ The “S3 Books” project offers practical solutions that help individuals impr
 # Key Features
 Focus on Users
 
-Practical Solutions 
+Practical Solutions
 
 Seamless Integration
 
