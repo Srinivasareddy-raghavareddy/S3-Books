@@ -10,7 +10,7 @@ A platform to solve your daily life problems.
 4.Sangamesh- Content Collection and Debugging 
 
 # Project Details
-Github Repository URL :https://github.com/Srinivasareddy-raghavareddy/S3-Books
+Github Repository URL : https://github.com/Srinivasareddy-raghavareddy/S3-Books
 
 Project Demo URL :https://s3books1.z13.web.core.windows.net/#nav-header
 
