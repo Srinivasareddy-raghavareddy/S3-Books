@@ -1,4 +1,4 @@
-# S3 BOOKS  
+# S3 BOOKS 
 A platform to solve your daily life problems.
 # Roles/Responsibilities
 1.Srinivasa Reddy- Web Development and Administration
