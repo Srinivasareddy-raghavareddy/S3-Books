@@ -22,7 +22,7 @@ Industry : Education
   2. Storage Account
   3. Azure Backup service
 # Problem Statement
-In addressing the quest for more efficient and fulfilling daily experiences, the 'S3 Books' project faces the challenge of consistently identifying, developing, and delivering practical solutions that seamlessly integrate into users' routines. This necessitates a continuous adaptation process fueled by user-centric feedback, aiming to evolve in sync with the dynamic needs of individuals. The project strives to overcome the hurdle of ensuring sustained relevance and ease of implementation while making a positive impact on user s' lives.
+In addressing the quest for more efficient and fulfilling daily experiences, the 'S3 Books' project faces the challenge of consistently identifying, developing, and delivering practical solutions that seamlessly integrate into users' routines. This necessitates a continuous adaptation process fueled by user-centric feedback, aiming to evolve in sync with the dynamic needs of individuals. The project strives to overcome the hurdle of ensuring sustained relevance and ease of implementation while making a positive impact on users' lives.
 # Project Decription
 The “S3 Books” project offers practical solutions that help individuals improve their daily lives. The project listens to the users and adapts its solutions to their changing needs. The goal is to make the daily experience more efficient and fulfilling.
 # Key Features
